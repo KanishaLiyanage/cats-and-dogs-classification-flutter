@@ -19,7 +19,9 @@ class _HomeScreenState extends State<HomeScreen> {
         title: Text("Cats Or Dogs?"),
       ),
       body: Column(
-        children: [],
+        children: [
+          Container(),
+        ],
       ),
     );
   }
