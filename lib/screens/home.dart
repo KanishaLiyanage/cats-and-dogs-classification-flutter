@@ -20,7 +20,9 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: Column(
         children: [
-          Container(),
+          Container(
+            decoration: BoxDecoration(),
+          ),
         ],
       ),
     );
