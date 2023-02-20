@@ -21,7 +21,9 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Column(
         children: [
           Container(
-            decoration: BoxDecoration(),
+            decoration: BoxDecoration(
+              color: Colors.amber,
+            ),
           ),
         ],
       ),
