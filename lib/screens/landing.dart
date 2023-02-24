@@ -11,6 +11,7 @@ class LandingScreen extends StatelessWidget {
       body: Column(
         children: [
           Container(),
+          Container(),
         ],
       ),
     );
