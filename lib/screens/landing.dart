@@ -10,8 +10,11 @@ class LandingScreen extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Container(),
-          Container(),
+          Container(
+            decoration: BoxDecoration(
+              color: Colors.amber,
+            ),
+          ),
         ],
       ),
     );
