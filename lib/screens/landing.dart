@@ -13,7 +13,7 @@ class LandingScreen extends StatelessWidget {
           Center(
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.amber,
+                color: Colors.blue,
               ),
             ),
           ),
