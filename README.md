@@ -1,4 +1,4 @@
-# cats_or_dogs
+# cats_or_dogs Flutter App
 
 A new Flutter project.
 
