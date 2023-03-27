@@ -38,3 +38,5 @@ samples, guidance on mobile development, and a full API reference.
 </details>
 
 ## About The Project
+
+Simple Machine Learning integration for a Flutter app.
