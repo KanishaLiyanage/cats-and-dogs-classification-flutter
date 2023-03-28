@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Cats Or Dogs?',
+      title: 'CatsOrDogs',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
