@@ -25,6 +25,11 @@ class _HomeScreenState extends State<HomeScreen> {
               color: Colors.amber,
             ),
           ),
+          Container(
+            decoration: BoxDecoration(
+              color: Colors.amber,
+            ),
+          ),
         ],
       ),
     );
