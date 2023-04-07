@@ -16,6 +16,11 @@ class LandingScreen extends StatelessWidget {
                 color: Colors.blue,
               ),
             ),
+            Container(
+              decoration: BoxDecoration(
+                color: Colors.blue,
+              ),
+            ),
           ),
         ],
       ),
