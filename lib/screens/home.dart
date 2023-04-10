@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Cats Or Dogs?"),
+        title: Text("Cats Or Dogs?",),
       ),
       body: Column(
         children: [
