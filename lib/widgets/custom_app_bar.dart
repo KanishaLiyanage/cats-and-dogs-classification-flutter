@@ -11,7 +11,7 @@ class CustomAppBar extends StatelessWidget {
       body: Column(
         children: [
           Container(
-
+            color: Colors.amber;
           ),
         ],
       ),
