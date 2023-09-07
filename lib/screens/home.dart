@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "MedClassifier",
+          "CatDogsClassifier",
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
