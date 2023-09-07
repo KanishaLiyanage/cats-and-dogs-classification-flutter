@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "CatDogsClassifier",
+          "Cats & Dogs Classifier",
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
@@ -99,7 +99,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     padding: EdgeInsets.only(top: 50),
                     child: Column(
                       children: [
-                        Image.asset('assets/home_screen/meds.png'),
+                        Image.asset('assets/home_screen/cat-and-dog.jpg'),
                         SizedBox(height: 50),
                       ],
                     ),

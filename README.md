@@ -1,4 +1,4 @@
-# medicine_classification_app
+# cats_and_dogs_classification
 
 A new Flutter project.
 

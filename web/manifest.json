@@ -1,6 +1,6 @@
 {
-    "name": "medicine_classification_app",
-    "short_name": "medicine_classification_app",
+    "name": "cats_and_dogs_classification",
+    "short_name": "cats_and_dogs_classification",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
